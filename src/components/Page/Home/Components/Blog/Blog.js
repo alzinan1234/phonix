@@ -43,6 +43,21 @@ const blogs = [
     heading: "Top 10 ways to something somethin..",
     img: "./assets/img/blog/blog-4.png",
   },
+  {
+    id: 4,
+    heading: "Top 10 ways to something somethin..",
+    img: "./assets/img/blog/blog-4.png",
+  },
+  {
+    id: 4,
+    heading: "Top 10 ways to something somethin..",
+    img: "./assets/img/blog/blog-4.png",
+  },
+  {
+    id: 4,
+    heading: "Top 10 ways to something somethin..",
+    img: "./assets/img/blog/blog-4.png",
+  },
 ];
 const Blog = () => {
   return (

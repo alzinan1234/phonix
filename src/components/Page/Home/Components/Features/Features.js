@@ -15,11 +15,14 @@ const Features = () => {
               <h5 className=" text-primary">Features</h5>
               <h3>A fully integrated suite of payments products</h3>
               <p>
-                With the power of Phoenix, you can now focus only on
-                functionaries for your digital products, while leaving the UI
-                design on us!With the power of Phoenix, you can now focus only
-                on functionaries for your digital products, while leaving the UI
-                design on us!
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. A
+                sapiente consequuntur aliquid! Nam odio modi, sit sequi repellat
+                quos ipsum possimus aut perspiciatis incidunt, at repellendus
+                dolorum perferendis autem provident ratione amet error, veniam
+                expedita temporibus ad doloremque et dolor! Itaque ipsam veniam
+                atque odio officiis aut dolores consectetur. Aliquid officia
+                distinctio consequuntur iusto cupiditate facilis est, hic dolore
+                unde.
               </p>
               <div className=" btn btn-outline-primary bg-primary bg-opacity-10 rounded-pill">
                 Find out more
@@ -46,11 +49,14 @@ const Features = () => {
                 src="./assets/img/icons/illustrations/pie.png"
                 className=" feactures-icon mb-3"
               />
-              <h5>All-in-one solution</h5>
+              <h5>All-in-one </h5>
               <p>
                 Show your production and growth graph in one place with Phoenix!
               </p>
               <CheckDemo />
+              <p>
+                Show your production and growth graph in one place with Phoenix!
+              </p>
             </div>
           </div>
         </div>
